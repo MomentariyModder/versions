@@ -1,0 +1,25 @@
+{
+	"homepage": "http://bit.ly/33aoLzD",
+	"1.14.4": {
+		"Beta 1.2": "Update Minecraft 1.15.2"
+	},
+	"1.15.2": {
+		"Beta 2.0": "See http://bit.ly/33aoLzD"
+	},
+	"1.16.5": {
+		"Beta 3.0": "See http://bit.ly/33aoLzD"
+		"Beta 3.1": "See http://bit.ly/33aoLzD"
+	},
+	"1.17.1": {
+		"Beta 4.0": "See http://bit.ly/33aoLzD"
+	},
+	"promos": {
+		"1.14.4-latest": "Beta 1.2",
+		"1.14.4-recommended": "Beta 1.2",
+		"1.15.2-latest": "Beta 2.0",
+		"1.15.2-recommended": "Beta 2.0"
+		"1.16.5-latest": "Beta 3.1",
+		"1.16.5-recommended": "Beta 3.1"
+		"1.17.1-latest": "Beta 4.0",
+		"1.17.1-recommended": "Beta 4.0"
+	}
