@@ -1,15 +1,11 @@
 {
 	"homepage": "https://bit.ly/3DlSfev",
-	"1.12.2": {
-		"2.1.1": "See https://bit.ly/3DlSfev"
-	},
 	"1.17.1": {
 		"1.0.0": "See https://bit.ly/3DlSfev"
 		"1.1.0": "Deepslate ores and Fixed."
+		"1.2.0": "Coming Soon."
 	},
 	"promos": {
-		"1.12.2-latest": "2.1.1",
-		"1.12.2-recommended": "2.1.1"
 		"1.17.1-latest": "1.1.0",
 		"1.17.1-recommended": "1.1.0"
 	}
