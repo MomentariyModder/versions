@@ -7,11 +7,12 @@
 	"1.17.1": {
 		"2.0": "Update to 1.17.1! See https://bit.ly/3rzvPnC"
 		"2.1": "New branding! See https://bit.ly/3rzvPnC"
+		"2.2": "Last update for 1.17.1! See https://bit.ly/3rzvPnC"
 	},
 	"promos": {
 		"1.16.5-latest": "1.1",
 		"1.16.5-recommended": "1.1",
-		"1.17.1-latest": "2.0",
-		"1.17.1-recommended": "2.0"
+		"1.17.1-latest": "2.2",
+		"1.17.1-recommended": "2.2"
 	}
 }
