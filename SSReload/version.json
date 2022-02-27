@@ -1,15 +1,10 @@
 {
 	"homepage": "https://bit.ly/3GsPs5l",
-	"1.16.5": {
-		"Beta 3.1": "See https://bit.ly/3GsPs5l"
-	},
 	"1.17.1": {
-		"4.0": "See https://bit.ly/3GsPs5l"
+		"1.0": "RELEASE! See https://bit.ly/3GsPs5l"
 	},
 	"promos": {
-		"1.16.5-latest": "Beta 3.1",
-		"1.16.5-recommended": "Beta 3.1",
-		"1.17.1-latest": "4.0",
-		"1.17.1-recommended": "4.0"
+		"1.17.1-latest": "1.0",
+		"1.17.1-recommended": "1.0"
 	}
 }
