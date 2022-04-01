@@ -1,16 +1,17 @@
 {
 	"homepage": "https://bit.ly/3DlSfev",
 	"1.17.1": {
-		"1.0.0": "See https://bit.ly/3DlSfev"
+		"1.0.0": "See https://bit.ly/3DlSfev",
 		"1.1.0": "Deepslate ores and Fixed."
 	},
 	"1.18.2": {
-		"2.0.0": "Coming Soon."
+		"2.0": "Hammer and 1.18.2! See https://bit.ly/3DlSfev",
+		"2.0.1": "Fixes. See https://bit.ly/3DlSfev"
 	},
 	"promos": {
 		"1.17.1-latest": "1.1.0",
 		"1.17.1-recommended": "1.1.0",
-		"1.18.2-latest": "2.0.0",
-		"1.18.2-recommended": "2.0.0"
+		"1.18.2-latest": "2.0.1",
+		"1.18.2-recommended": "2.0.1"
 	}
 }
