@@ -4,12 +4,12 @@
 		"1.0": "RELEASE! See https://bit.ly/3GsPs5l"
 	},
 	"1.18.2": {
-		"2.0": "Coming Soon! See https://bit.ly/3GsPs5l"
+		"2.0.0": "Port to 1.18.2! See https://bit.ly/3GsPs5l"
 	},
 	"promos": {
 		"1.17.1-latest": "1.0",
 		"1.17.1-recommended": "1.0",
-		"1.18.2-latest": "2.0",
-		"1.18.2-recommended": "2.0"
+		"1.18.2-latest": "2.0.0",
+		"1.18.2-recommended": "2.0.0"
 	}
 }
