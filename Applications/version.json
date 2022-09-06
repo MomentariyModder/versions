@@ -11,13 +11,15 @@
 	},
 	"1.18.2": {
 		"3.0": "Update to 1.18.2! See https://momentariymodder.tk/ma.html"
+		"3.1": "See https://momentariymodder.tk/ma.html"
+		"3.2": "Nothing! See https://momentariymodder.tk/ma.html"
 	},
 	"promos": {
 		"1.16.5-latest": "1.1",
 		"1.16.5-recommended": "1.1",
 		"1.17.1-latest": "2.2",
 		"1.17.1-recommended": "2.2",
-		"1.18.2-latest": "3.0",
-		"1.18.2-recommended": "3.0"
+		"1.18.2-latest": "3.2",
+		"1.18.2-recommended": "3.2"
 	}
 }
