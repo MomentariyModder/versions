@@ -1,0 +1,10 @@
+{
+	"homepage": "https://momentariymodder.tk/cse.html",
+	"1.19.2": {
+		"1.0.0": "Release."
+	},
+	"promos": {
+		"1.19.2-latest": "1.0.0",
+		"1.19.2-recommended": "1.0.0"
+	}
+}
