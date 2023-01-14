@@ -1,18 +1,18 @@
 {
-	"homepage": "https://momentariymodder.tk/perodiumcraft.html",
+	"homepage": "https://momentariymodder.tk/#perodiumcraft",
 	"1.17.1": {
-		"1.0.0": "See https://momentariymodder.tk/perodiumcraft.html",
+		"1.0.0": "Release",
 		"1.1.0": "Deepslate ores and Fixed."
 	},
 	"1.18.2": {
-		"2.0": "Hammer and 1.18.2! See https://momentariymodder.tk/perodiumcraft.html",
-		"2.0.1": "Fixes. See https://momentariymodder.tk/perodiumcraft.html",
-		"2.0.2": "Fixes 2. See https://momentariymodder.tk/perodiumcraft.html"
+		"2.0": "Hammer and 1.18.2!",
+		"2.0.1": "Fixes.",
+		"2.0.2": "Fixes 2."
 	},
 	"promos": {
 		"1.17.1-latest": "1.1.0",
 		"1.17.1-recommended": "1.1.0",
-		"1.18.2-latest": "2.0.1",
-		"1.18.2-recommended": "2.0.1"
+		"1.18.2-latest": "2.0.2",
+		"1.18.2-recommended": "2.0.2"
 	}
 }

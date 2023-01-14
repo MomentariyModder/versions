@@ -1,10 +1,10 @@
 {
-	"homepage": "https://momentariymodder.tk/ssreload.html",
+	"homepage": "https://momentariymodder.tk/#ssreload",
 	"1.17.1": {
-		"1.0": "RELEASE! See https://momentariymodder.tk/ssreload.html"
+		"1.0": "RELEASE!"
 	},
 	"1.18.2": {
-		"2.0.0": "Port to 1.18.2! See https://momentariymodder.tk/ssreload.html"
+		"2.0.0": "Port to 1.18.2!"
 	},
 	"promos": {
 		"1.17.1-latest": "1.0",
