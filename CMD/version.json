@@ -17,12 +17,17 @@
 		"2.5.0": "Port to 1.19.4",
 		"2.5.1": "Add supports: The Aether, Blue Skies, Simple Farming & Fins and Tails"
 	},
+	"1.20.1": {
+		"3.0.0": "Port to 1.20.1"
+	},
 	"promos": {
 		"1.18.2-latest": "1.1.0",
 		"1.18.2-recommended": "1.1.0",
 		"1.19.2-latest": "2.4.2",
 		"1.19.2-recommended": "2.4.2",
 		"1.19.4-latest": "2.5.1",
-		"1.19.4-recommended": "2.5.1"
+		"1.19.4-recommended": "2.5.1",
+		"1.20.1-latest": "3.0.0",
+		"1.20.1-recommended": "3.0.0"
 	}
 }
