@@ -2,7 +2,8 @@
 	"homepage": "https://momentariymodder.netlify.app/projects/cmd.html",
 	"1.18.2": {
 		"1.0.1": "Release.",
-		"1.1.0": "Backport 2.5.1 to 1.18.2"
+		"1.1.0": "Backport 2.5.1 to 1.18.2",
+		"1.2.0": "Backport 3.1.0 to 1.18.2"
 	},
 	"1.19.2": {
 		"2.0.0": "Update to 1.19.2!",
@@ -11,23 +12,26 @@
 		"2.3.0": "More supports mods",
 		"2.4.0": "Mooore supports mods ana changes",
 		"2.4.1": "Fix error tag",
-		"2.4.2": "Backport 2.5.1 to 1.19.2"
+		"2.4.2": "Backport 2.5.1 to 1.19.2",
+		"2.4.3": "Backport 3.1.0 to 1.19.2"
 	},
 	"1.19.4": {
 		"2.5.0": "Port to 1.19.4",
-		"2.5.1": "Add supports: The Aether, Blue Skies, Simple Farming & Fins and Tails"
+		"2.5.1": "Add supports: The Aether, Blue Skies, Simple Farming & Fins and Tails",
+		"2.5.2": "Backport 3.1.0 to 1.19.4"
 	},
 	"1.20.1": {
-		"3.0.0": "Port to 1.20.1"
+		"3.0.0": "Port to 1.20.1",
+		"3.1.0": "Add supports: Rats, The Graveyard and Tropicraft"
 	},
 	"promos": {
-		"1.18.2-latest": "1.1.0",
-		"1.18.2-recommended": "1.1.0",
-		"1.19.2-latest": "2.4.2",
-		"1.19.2-recommended": "2.4.2",
-		"1.19.4-latest": "2.5.1",
-		"1.19.4-recommended": "2.5.1",
-		"1.20.1-latest": "3.0.0",
-		"1.20.1-recommended": "3.0.0"
+		"1.18.2-latest": "1.2.0",
+		"1.18.2-recommended": "1.2.0",
+		"1.19.2-latest": "2.4.3",
+		"1.19.2-recommended": "2.4.3",
+		"1.19.4-latest": "2.5.2",
+		"1.19.4-recommended": "2.5.2",
+		"1.20.1-latest": "3.1.0",
+		"1.20.1-recommended": "3.1.0"
 	}
 }
