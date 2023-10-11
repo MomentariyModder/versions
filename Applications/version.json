@@ -20,7 +20,7 @@
 		"4.1.0": "Fix",
 		"4.2.0": "+ CSE",
 		"4.3.0": "+ WDT and Fix",
-		"34.3.1": "Updating branding, Hebrew and LTS supported"
+		"4.3.1": "Updating branding, Hebrew and LTS supported"
 	},
 	"1.19.4": {
 		"4.4.0": "Port to 1.19.4",
