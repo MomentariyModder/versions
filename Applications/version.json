@@ -12,21 +12,25 @@
 	"1.18.2": {
 		"3.0": "Update to 1.18.2! ",
 		"3.1": "",
-		"3.2": "Nothing! "
+		"3.2": "Nothing! ",
+		"3.3.0": "Updating branding, Hebrew and LTS supported"
 	},
 	"1.19.2": {
 		"4.0.0": "Update to 1.19.2! ",
 		"4.1.0": "Fix",
 		"4.2.0": "+ CSE",
-		"4.3.0": "+ WDT and Fix"
+		"4.3.0": "+ WDT and Fix",
+		"34.3.1": "Updating branding, Hebrew and LTS supported"
 	},
 	"1.19.4": {
-		"4.4.0": "Port to 1.19.4"
+		"4.4.0": "Port to 1.19.4",
+		"4.4.1": "Updating branding, Hebrew and LTS supported"
 	},
 	"1.20.1": {
 		"5.0.0": "Port to 1.20.1",
 		"5.1.0": "fixes",
-		"5.2.0": "+ Storage Crate"
+		"5.2.0": "+ Storage Crate",
+		"5.3.0": "Updating branding and Hebrew"
 	},
 	"promos": {
 		"1.16.5-latest": "1.1",
@@ -34,12 +38,12 @@
 		"1.17.1-latest": "2.2",
 		"1.17.1-recommended": "2.2",
 		"1.18.2-latest": "3.2",
-		"1.18.2-recommended": "3.2",
-		"1.19.2-latest": "4.3.0",
-		"1.19.2-recommended": "4.3.0",
-		"1.19.4-latest": "4.4.0",
-		"1.19.4-recommended": "4.4.0",
-		"1.20.1-latest": "5.2.0",
-		"1.20.1-recommended": "5.2.0"
+		"1.18.2-recommended": "3.3.0",
+		"1.19.2-latest": "4.3.1",
+		"1.19.2-recommended": "4.3.1",
+		"1.19.4-latest": "4.4.1",
+		"1.19.4-recommended": "4.4.1",
+		"1.20.1-latest": "5.3.0",
+		"1.20.1-recommended": "5.3.0"
 	}
 }
