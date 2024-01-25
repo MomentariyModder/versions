@@ -29,7 +29,8 @@
 		"3.1.0": "Add supports: Rats, The Graveyard and Tropicraft",
 		"3.2.0": "Added supports: Eidolon, Nether's Exoticism, Seeds and Upgrade Aquatic",
 		"3.3.0": "Added supports: Advent Of Ascension, Ars Nouveau, Aether: Lost Content Addon, Blood Magic, Bygone Nether, Deep Aether, Distorted Discs, It Takes a Pillage, Sons Of Sins: Wounds of Chaos, Sully's Mod, The Aether: Redux and Windswept!",
-		"3.4.0": "Added supports: Eternal Tales, Forest X Reborn, Spawn. and The Legend of Herobrine; Added: Music Disk Base; Changed ALL recipes music discs"
+		"3.4.0": "Added supports: Eternal Tales, Forest X Reborn, Spawn. and The Legend of Herobrine; Added: Music Disk Base; Changed ALL recipes music discs",
+		"3.4.1": "Added supports: BetterEnd, Embers Rekindled, Legacies and Legends, Unseen World, Wilder Wild and Wizard's Reborn; Added: Music Disk Base; Update supports: Distorted Discs (by BBoldt): added recipe new music discs 'Motives'"
 	},
 	"promos": {
 		"1.18.2-latest": "1.4.0",
@@ -38,7 +39,7 @@
 		"1.19.2-recommended": "2.4.5",
 		"1.19.4-latest": "2.5.2",
 		"1.19.4-recommended": "2.5.2",
-		"1.20.1-latest": "3.4.0",
-		"1.20.1-recommended": "3.4.0"
+		"1.20.1-latest": "3.4.1",
+		"1.20.1-recommended": "3.4.1"
 	}
 }
