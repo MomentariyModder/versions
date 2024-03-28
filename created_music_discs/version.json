@@ -32,7 +32,8 @@
 		"3.4.0": "Added supports: Eternal Tales, Forest X Reborn, Spawn. and The Legend of Herobrine; Added: Music Disk Base; Changed ALL recipes music discs",
 		"3.4.1": "Added supports: BetterEnd, Embers Rekindled, Legacies and Legends, Unseen World, Wilder Wild and Wizard's Reborn; Added: Music Disk Base; Update supports: Distorted Discs (by BBoldt): added recipe new music discs 'Motives'",
 		"3.4.2": "Added compability: Desolation, Ecologics and The Outer End; Update compability: Wizard's Reborn and The Bumblezone",
-		"3.5.0": "See https://momentariymodder.xyz/blog/cmd-3.5.0"
+		"3.5.0": "See https://momentariymodder.xyz/blog/cmd-3.5.0",
+		"3.5.0": "See https://momentariymodder.xyz/blog/cmd-3.6.0"
 	},
 	"promos": {
 		"1.18.2-latest": "1.4.0",
@@ -41,7 +42,7 @@
 		"1.19.2-recommended": "2.4.5",
 		"1.19.4-latest": "2.5.2",
 		"1.19.4-recommended": "2.5.2",
-		"1.20.1-latest": "3.5.0",
-		"1.20.1-recommended": "3.5.0"
+		"1.20.1-latest": "3.6.0",
+		"1.20.1-recommended": "3.6.0"
 	}
 }
