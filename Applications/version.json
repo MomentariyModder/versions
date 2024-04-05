@@ -35,6 +35,9 @@
 		"5.3.2": "fixed",
 		"5.4.0": "New CSE"
 	},
+	"1.20.4": {
+		"6.0.0": "See https://momentariymodder.xyz/blog/mma-6.0.0"
+	},
 	"promos": {
 		"1.16.5-latest": "1.1",
 		"1.16.5-recommended": "1.1",
@@ -47,6 +50,8 @@
 		"1.19.4-latest": "4.4.1",
 		"1.19.4-recommended": "4.4.1",
 		"1.20.1-latest": "5.4.0",
-		"1.20.1-recommended": "5.4.0"
+		"1.20.1-recommended": "5.4.0",
+		"1.20.4-latest": "6.0.0",
+		"1.20.4-recommended": "6.0.0"
 	}
 }
