@@ -10,12 +10,17 @@
 		"2.0.0": "Port to 1.20.1",
 		"2.1.0": "See https://momentariymodder.xyz/blog/cse-2.1.0"
 	},
+	"1.20.4": {
+		"3.0.0": "See https://momentariymodder.xyz/blog/cse-3.0.0"
+	},
 	"promos": {
 		"1.19.2-latest": "1.0.0",
 		"1.19.2-recommended": "1.0.0",
 		"1.19.4-latest": "1.1.0",
 		"1.19.4-recommended": "1.1.0",
 		"1.20.1-latest": "2.1.0",
-		"1.20.1-recommended": "2.1.0"
+		"1.20.1-recommended": "2.1.0",
+		"1.20.4-latest": "3.0.0",
+		"1.20.4-recommended": "3.0.0"
 	}
 }
