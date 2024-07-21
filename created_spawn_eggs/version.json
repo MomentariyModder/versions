@@ -13,6 +13,9 @@
 	"1.20.4": {
 		"3.0.0": "See https://momentariymodder.xyz/blog/cse-3.0.0"
 	},
+	"1.20.6": {
+		"4.0.0": "See: https://momentariymodder.xyz/blog/triple-update"
+	},
 	"promos": {
 		"1.19.2-latest": "1.0.0",
 		"1.19.2-recommended": "1.0.0",
@@ -21,6 +24,8 @@
 		"1.20.1-latest": "2.1.0",
 		"1.20.1-recommended": "2.1.0",
 		"1.20.4-latest": "3.0.0",
-		"1.20.4-recommended": "3.0.0"
+		"1.20.4-recommended": "3.0.0",
+		"1.20.6-latest": "4.0.0",
+		"1.20.6-recommended": "4.0.0"
 	}
 }
