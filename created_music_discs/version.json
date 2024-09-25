@@ -35,7 +35,8 @@
 		"3.5.0": "See https://momentariymodder.xyz/blog/cmd-3.5.0",
 		"3.6.0": "See https://momentariymodder.xyz/blog/cmd-3.6.0",
 		"3.7.0": "See https://momentariymodder.xyz/blog/cmd-3.7.0-4.1.0",
-		"3.8.0": "See https://momentariymodder.xyz/blog/cmd-3.8.0-5.1.0"
+		"3.8.0": "See https://momentariymodder.xyz/blog/cmd-3.8.0-5.1.0",
+		"3.9.0": "See https://momentariymodder.xyz/blog/cmd-3.9.0-5.2.0"
 	},
 	"1.20.4": {
 		"4.0.0": "See https://momentariymodder.xyz/blog/cmd-4.0.0",
@@ -43,7 +44,8 @@
 	},
 	"1.20.6": {
 		"5.0.0": "See: https://momentariymodder.xyz/blog/triple-update",
-		"5.1.0": "See https://momentariymodder.xyz/blog/cmd-3.8.0-5.1.0"
+		"5.1.0": "See https://momentariymodder.xyz/blog/cmd-3.8.0-5.1.0",
+		"5.2.0": "See https://momentariymodder.xyz/blog/cmd-3.9.0-5.2.0"
 	},
 	"promos": {
 		"1.18.2-latest": "1.4.0",
@@ -52,11 +54,11 @@
 		"1.19.2-recommended": "2.4.5",
 		"1.19.4-latest": "2.5.2",
 		"1.19.4-recommended": "2.5.2",
-		"1.20.1-latest": "3.8.0",
-		"1.20.1-recommended": "3.8.0",
+		"1.20.1-latest": "3.9.0",
+		"1.20.1-recommended": "3.9.0",
 		"1.20.4-latest": "4.1.0",
 		"1.20.4-recommended": "4.1.0",
-		"1.20.6-latest": "5.1.0",
-		"1.20.6-recommended": "5.1.0"
+		"1.20.6-latest": "5.2.0",
+		"1.20.6-recommended": "5.2.0"
 	}
 }
