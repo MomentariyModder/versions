@@ -1,5 +1,5 @@
 {
-	"homepage": "https://momentariymodder.xyz/projects/applications",
+	"homepage": "https://momentariymodder.netlify.app/projects/applications",
 	"1.16.5": {
 		"1.0": "Release",
 		"1.1": "Fix"
@@ -37,14 +37,14 @@
 		"5.5.0": "New projects"
 	},
 	"1.20.4": {
-		"6.0.0": "See https://momentariymodder.xyz/blog/mma-6.0.0"
+		"6.0.0": "See https://momentariymodder.netlify.app/blog/mma-6.0.0"
 	},
 	"1.20.6": {
-		"7.0.0": "See https://momentariymodder.xyz/blog/mma-7.0.0",
+		"7.0.0": "See https://momentariymodder.netlify.app/blog/mma-7.0.0",
 		"7.1.0": "New projects"
 	},
 	"1.21.1": {
-		"8.0.0": "See https://momentariymodder.xyz/blog/mma-8.0.0"
+		"8.0.0": "See https://momentariymodder.netlify.app/blog/mma-8.0.0"
 	},
 	"promos": {
 		"1.16.5-latest": "1.1",
