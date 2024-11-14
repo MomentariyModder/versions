@@ -6,10 +6,15 @@
 	"1.20.6": {
 		"2.0.0": "Released"
 	},
+	"1.21.1": {
+		"3.0.0": "See: https://momentariymodder.netlify.app/blog/updated-to-1.21.1"
+	},
 	"promos": {
 		"1.20.1-latest": "1.0.0",
 		"1.20.1-recommended": "1.0.0",
 		"1.20.6-latest": "2.0.0",
-		"1.20.6-recommended": "2.0.0"
+		"1.20.6-recommended": "2.0.0",
+		"1.21.1-latest": "3.0.0",
+		"1.21.1-recommended": "3.0.0"
 	}
 }

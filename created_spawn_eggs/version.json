@@ -16,6 +16,9 @@
 	"1.20.6": {
 		"4.0.0": "See: https://momentariymodder.netlify.app/blog/triple-update"
 	},
+	"1.21.1": {
+		"5.0.0": "See: https://momentariymodder.netlify.app/blog/updated-to-1.21.1"
+	},
 	"promos": {
 		"1.19.2-latest": "1.0.0",
 		"1.19.2-recommended": "1.0.0",
@@ -26,6 +29,8 @@
 		"1.20.4-latest": "3.0.0",
 		"1.20.4-recommended": "3.0.0",
 		"1.20.6-latest": "4.0.0",
-		"1.20.6-recommended": "4.0.0"
+		"1.20.6-recommended": "4.0.0",
+		"1.21.1-latest": "5.0.0",
+		"1.21.1-recommended": "5.0.0"
 	}
 }
