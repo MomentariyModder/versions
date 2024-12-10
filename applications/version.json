@@ -45,7 +45,8 @@
 	},
 	"1.21.1": {
 		"8.0.0": "See https://momentariymodder.netlify.app/blog/mma-8.0.0",
-		"8.1.0": "See https://momentariymodder.netlify.app/blog/mma-8.1.0"
+		"8.1.0": "See https://momentariymodder.netlify.app/blog/mma-8.1.0",
+		"8.1.1": "Fixed. Download: https://momentariymodder.netlify.app/projects/applications/download"
 	},
 	"promos": {
 		"1.16.5-latest": "1.1",
@@ -64,7 +65,7 @@
 		"1.20.4-recommended": "6.0.0",
 		"1.20.6-latest": "7.1.0",
 		"1.20.6-recommended": "7.1.0",
-		"1.21.1-latest": "8.1.0",
-		"1.21.1-recommended": "8.1.0"
+		"1.21.1-latest": "8.1.1",
+		"1.21.1-recommended": "8.1.1"
 	}
 }
