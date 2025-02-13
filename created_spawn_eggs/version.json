@@ -1,5 +1,5 @@
 {
-	"homepage": "https://momentariymodder.netlify.app/projects/created-spawn-eggs",
+	"homepage": "https://momentariymodder.com/projects/created-spawn-eggs",
 	"1.19.2": {
 		"1.0.0": "Release."
 	},
@@ -8,16 +8,16 @@
 	},
 	"1.20.1": {
 		"2.0.0": "Port to 1.20.1",
-		"2.1.0": "See https://momentariymodder.netlify.app/blog/cse-2.1.0"
+		"2.1.0": "See https://momentariymodder.com/blog/cse-2.1.0"
 	},
 	"1.20.4": {
-		"3.0.0": "See https://momentariymodder.netlify.app/blog/cse-3.0.0"
+		"3.0.0": "See https://momentariymodder.com/blog/cse-3.0.0"
 	},
 	"1.20.6": {
-		"4.0.0": "See: https://momentariymodder.netlify.app/blog/triple-update"
+		"4.0.0": "See: https://momentariymodder.com/blog/triple-update"
 	},
 	"1.21.1": {
-		"5.0.0": "See: https://momentariymodder.netlify.app/blog/updated-to-1.21.1"
+		"5.0.0": "See: https://momentariymodder.com/blog/updated-to-1.21.1"
 	},
 	"promos": {
 		"1.19.2-latest": "1.0.0",
